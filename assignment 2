@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="html,css">
+     <meta name="author" content="k.anudeep">
+    <meta name="viewport" content="width=device-width">
+    <title>ASSIGNMENT</title>
+    <style>
+        body {
+            background-image:url("https://i.ytimg.com/vi/0ZH00x8YVZI/maxresdefault.jpg");
+
+        }
+
+        img {
+              border-radius:8%;
+           
+        }
+
+        h1{
+	text-align: center;
+	font-size: 30px;
+	font-family:impact;
+	color: orange;
+        
+}
+      h4{
+	text-align: center;
+	font-size: 20px;
+	font-family:Harlow Soloid Italic;
+	color:BLUE;
+        
+}
+h2{
+	text-align: center;
+	font-size: 20px;
+	font-family:Harlow Soloid Italic;
+	color:BLUE;
+        background-color:yellow;
+}
+    </style>
+</head>
+
+<body>
+<hr font size="1" color="blue">
+<h1 style="line-height:10px"><u>CS3403_ASSIGNMENT - 2</u></h1>
+<hr font size="1" color="blue">
+<hr font size="4" color="green">
+
+<hr font size="4" color="orange">
+<h2 align="center">PROFILE</h2>
+    <div>
+
+       <center> <img src="anudeep.jpg"width="300" height="300"></center>
+
+    </div>
+    
+               <h4 style="line-height:10px">NAME:k.anudeep</h4>
+              <h4 style="line-height:10px">Roll No;-2006196</h4>
+               <h4 style="line-height:10px">BRANCH:CSE</h4>
+</body>
+
+</html>
